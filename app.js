@@ -1,0 +1,1 @@
+alert("Website Ended..\nJazakAllah For Your Interaction In It");
